@@ -1,2 +1,5 @@
-In this repository of C-codes i've created multiple folders which consists of DSA codes on the topic like Linked List , Stack, Queue, etc.
+In this repository of C-codes i've created DSA codes on the topic Linked List.
+It has codes of singly linked list and the doubly linked list.
+
+=> DLL stands for Doubly linked list
 
